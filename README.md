@@ -4,6 +4,255 @@
 # Abstract
 <p align="justify">High calorie intake can be harmful and result in numerous diseases. Dietitians have determined that a standard intake of number of calories is fundamental to keep the right balance of calories in human body. We propose techniques that will allow people to easily estimate the calorie count of their food. To achieve this objective, we develop an application that enables the user to determine the calorie content of a food item by taking its photograph. The application will detect the food items within the photograph and recognize them. It will also estimate the amount of food by estimating the distance from the camera and computing its volume. The type of food and its volume can then allow us to calculate the number of calories. Deep Learning has recently revolutionized many domains of computer vision such as signal & information processing and speech & object recognition. Convolutional Neural Network (CNN) is a powerful machine learning technique from the field of deep learning. We will make use of these techniques to perform object recognition, which is an essential part of this project.</p>
 
+# Final Defense Presentation
+
+| ![Slide 1](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(1).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 1* |
+
+
+| ![Slide 2](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(2).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 2* |
+
+
+
+| ![Slide 3](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(3).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 3* |
+
+
+
+| ![Slide 4](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(4).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 4* |
+
+
+
+| ![Slide 5](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(5).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 5* |
+
+
+
+| ![Slide 6](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(6).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 6* |
+
+
+
+| ![Slide 7](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(7).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 7* |
+
+
+
+| ![Slide 8](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(8).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 8* |
+
+
+
+| ![Slide 9](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(9).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 9* |
+
+
+
+| ![Slide 10](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(10).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 10* |
+
+
+
+| ![Slide 11](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(11).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 11* |
+
+
+
+| ![Slide 12](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(12).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 12* |
+
+
+
+| ![Slide 13](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(13).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 13* |
+
+
+
+| ![Slide 14](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(14).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 14* |
+
+
+
+| ![Slide 15](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(15).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 15* |
+
+
+
+| ![Slide 16](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(16).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 16* |
+
+
+
+| ![Slide 17](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(17).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 17* |
+
+
+
+| ![Slide 18](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(18).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 18* |
+
+
+
+| ![Slide 19](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(19).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 19* |
+
+
+
+| ![Slide 20](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(20).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 20* |
+
+
+
+| ![Slide 21](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(21).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 21* |
+
+
+
+| ![Slide 22](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(22).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 22* |
+
+
+
+| ![Slide 23](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(23).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 23* |
+
+
+
+| ![Slide 24](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(24).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 24* |
+
+
+
+| ![Slide 25](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(25).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 25* |
+
+
+
+| ![Slide 26](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(26).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 26* |
+
+
+
+| ![Slide 27](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(27).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 27* |
+
+
+
+| ![Slide 28](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(28).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 28* |
+
+
+
+| ![Slide 29](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(29).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 29* |
+
+
+
+| ![Slide 30](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(30).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 30* |
+
+
+
+| ![Slide 31](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(31).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 31* |
+
+
+
+| ![Slide 32](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(32).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 32* |
+
+
+
+| ![Slide 33](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(33).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 33* |
+
+
+
+| ![Slide 34](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(34).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 34* |
+
+
+
+| ![Slide 35](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(35).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 35* |
+
+
+
+| ![Slide 36](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(36).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 36* |
+
+
+
+| ![Slide 37](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(37).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 37* |
+
+
+
+| ![Slide 38](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(38).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 38* |
+
+
+
+| ![Slide 39](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(39).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 39* |
+
+
+
+| ![Slide 40](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(40).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 40* |
+
+
+
+| ![Slide 41](../main/Nauman_Zafar_MSCS_Thesis_Defense_short/Nauman_Zafar_MSCS_Thesis_Defense_slide%20(41).jpg?raw=true) | 
+|:--:| 
+| *Nauman Zafar MSCS Thesis Defense Slide 41* |
+
+
+<h2 align="center">Thesis Document</h2>
+
+
 
 # 1. Introduction
 
